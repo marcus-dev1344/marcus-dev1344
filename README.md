@@ -5,7 +5,7 @@
 💻 Atualmente trabalho com:
 
 Microsoft Power Apps
-Automação de processos
+Automação de processos PY
 SQLite
 
 🚀 Em evolução:
