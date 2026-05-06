@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Olá, eu sou Marcus
 
-<!--
-**marcus-dev1344/marcus-dev1344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Focado em desenvolvimento de software e automação de processos
 
-Here are some ideas to get you started:
+💻 Atualmente trabalho com:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Microsoft Power Apps
+Automação de processos
+SQLite
+
+🚀 Em evolução:
+
+RPA (Automação)
+Desenvolvimento de software
+
+📚 Objetivo:
+Ingressar na área de desenvolvimento e cursar Análise e Desenvolvimento de Sistemas
+
+📌 Projetos em destaque:
+
+Em construção...
